@@ -2,121 +2,33 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# O que é uma VPN
+Uma VPN, ou Rede Privada Virtual, é uma tecnologia que cria uma conexão segura e criptografada entre o seu dispositivo e a internet. Basicamente, ela permite que você navegue de forma anônima, escondendo seu endereço IP e local real. Como definido pela VPN Mentor, "uma VPN permite que você acesse a internet como se estivesse em outro lugar, protegendo sua privacidade e dados pessoais".
 
-[Link to another page](./another-page.html).
+# Para que serve uma VPN?
+1. Privacidade online: A VPN oculta suas atividades na internet de provedores de serviços e possíveis bisbilhoteiros. Segundo a Electronic Frontier Foundation, "usar uma VPN é uma maneira eficaz de proteger sua privacidade ao navegar na internet".
+2. Acesso a conteúdos restritos: Muitas vezes, serviços de streaming e sites têm restrições geográficas. Com uma VPN, você pode se conectar a um servidor em outro país e acessar conteúdos que normalmente não estariam disponíveis na sua região.
+3. Segurança em redes públicas: Ao usar Wi-Fi público, seus dados estão vulneráveis a ataques. Uma VPN protege suas informações, como senhas e dados bancários, garantindo uma camada extra de segurança.
 
-There should be whitespace between paragraphs.
+# Quando usar uma VPN?
+Navegando em redes públicas: Sempre que você se conectar a uma rede Wi-Fi pública, é recomendável usar uma VPN para proteger seus dados.
+Ao acessar conteúdo restrito: Se você deseja assistir a um filme ou programa que não está disponível na sua região, uma VPN pode ser a solução.
+Para maior privacidade: Se você se preocupa com rastreamento online e deseja navegar de forma mais anônima, usar uma VPN é uma boa prática.
+Em resumo, uma VPN é uma ferramenta essencial para quem busca mais privacidade e segurança na internet.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Referências bibliográficas:
+https://www.cisa.gov/topics/cybersecurity-best-practices
 
-# Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
+---
+### 
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
+### 
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
 ```
 The final element.
