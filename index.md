@@ -26,9 +26,6 @@ https://www.cisa.gov/topics/cybersecurity-best-practices
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### 
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 ```
 The final element.
