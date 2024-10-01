@@ -1,6 +1,6 @@
 title: Segurança Digital 101
 logo: /assets/img/logo1.png
 description: Ensinando segurança digital para todos.
-show_downloads: false
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
