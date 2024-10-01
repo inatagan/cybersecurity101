@@ -44,7 +44,7 @@ Acesso a conteúdos restritos por *geoblocking*, muitas vezes, serviços de stre
 
 Segurança em redes públicas, ao usar Wi-Fi público, seus dados estão vulneráveis a ataques. Uma VPN protege suas informações, como senhas e dados bancários, garantindo uma camada extra de segurança.
 
-## 
+---
 
 ## **Quando usar uma VPN?**
 
@@ -60,7 +60,7 @@ Em resumo, uma VPN é uma ferramenta essencial para quem busca mais privacidade 
 
 Sim, usar uma VPN pode ser seguro, mas a sua segurança está diretamente relacionada ao provedor de VPN que for escolhido. No mercado atual existem diversos provedores variando entre provedores gratuitos e pagos, provedores que mantém ou não logs de utilização, quais tipos de criptografia são utilizados e por último em qual região o provedor opera.
 
-## 
+---
 
 ## **Qual VPN usar**
 
@@ -74,13 +74,13 @@ Provedores que oferecem VPNs de forma gratuita dependem de formas alternativas p
 
 Se você deseja escolher um provedor pago busque por aqueles que oferecem transparências em seus serviços com auditorias públicas e a garantia de que logs de uso não serão mantidos. Por último, para aqueles que desejam controle total e a garantia de que suas necessidades serão atendidas não existe melhor opção do que a de hospedar a sua própria VPN.
 
-## 
+---
 
 ## **Hospedar a sua própria VPN**
 
 Nos dias de hoje, a privacidade online é mais importante do que nunca. Uma VPN (Rede Privada Virtual) é uma ferramenta poderosa que ajuda a proteger suas informações, mascarando seu endereço IP e criptografando sua conexão. Embora existam muitos serviços de VPN disponíveis, hospedar sua própria VPN oferece controle total sobre seus dados e configurações. Aqui estão algumas vantagens e um guia básico para você começar.
 
-## 
+---
 
 ## **Vantagens de Hospedar Sua Própria VPN**
 
@@ -89,7 +89,7 @@ Nos dias de hoje, a privacidade online é mais importante do que nunca. Uma VPN 
 3. **Custo-efetivo**: Embora haja um investimento inicial em hardware ou serviços de nuvem, a longo prazo, uma VPN própria pode ser mais econômica do que pagar mensalmente por um serviço.  
 4. **Acesso Remoto**: Você pode acessar sua rede local de qualquer lugar do mundo, como se estivesse em casa, permitindo o acesso seguro a arquivos e dispositivos.
 
-## 
+---
 
 ## **Passos para Hospedar Sua Própria VPN**
 
@@ -108,7 +108,7 @@ O WireGuard é uma VPN extremamente simples, porém rápida e moderna, que utili
 
 O WireGuard foi projetado como uma VPN de uso geral para ser executado tanto em interfaces incorporadas quanto em supercomputadores, adequado para muitas circunstâncias diferentes. Inicialmente lançado para o kernel do Linux, agora é multiplataforma (Windows, macOS, BSD, iOS, Android) e amplamente implementável. No momento, ele está em pleno desenvolvimento, mas já pode ser considerado a solução de VPN mais segura, mais fácil de usar e mais simples do setor.
 
-## 
+---
 
 ## **OpenVPN**
 
@@ -126,12 +126,10 @@ Com este trabalho esperamos ter esclarecido o que é e como funciona uma VPN, ag
 
 
 ---
-### 
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ---
-<sup>Este preojeto é desenvolvido pelos alunos de extensão 1 do curso de ADS</sup>
 
 ## [About](./about.html)
 ```

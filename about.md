@@ -4,7 +4,7 @@ layout: default
 
 ## About
 
-Este projeto é realizado por:
+Este projeto é desenvolvido pelos alunos de extensão 1 do curso de ADS:
 
 * Andrey Nagatani 
 * Douglas Gustavo da Silva 
