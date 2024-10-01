@@ -10,7 +10,7 @@ Uma analogia popular usada para explicar VPNs é dizer que a VPN funciona como s
 
 ## **Como funciona uma VPN?**
 
-![Fonte: Hostinger](https://github.com/inatagan/cybersecurity101/blob/main/assets/img/como-funciona-uma-vpn.png)
+![Fonte: Hostinger](https://github.com/inatagan/cybersecurity101/blob/main/assets/img/como-funciona-uma-vpn.png?raw=true)
 
 Quando você se conecta à internet sem usar uma rede virtual privada (VPN), sua operadora atua como a principal intermediária entre seu dispositivo e a web. O provedor de internet fornece um endereço de IP único para seu dispositivo (como computador, celular ou tablet) e monitora todos os sites que você acessa.
 
