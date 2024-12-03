@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+![](https://drive.google.com/file/d/1Hmwm7GxijU2mjpUY_pd7H7H1awA9d_eA/view?usp=sharing)
 
 ## **O que é uma VPN**
 
