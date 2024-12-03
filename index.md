@@ -6,7 +6,7 @@ layout: default
   <source src="https://drive.google.com/file/d/1Hmwm7GxijU2mjpUY_pd7H7H1awA9d_eA/view" type="video/mp4">
 </video>
 
-![Assista apresentação em video aqui](https://drive.google.com/file/d/1Hmwm7GxijU2mjpUY_pd7H7H1awA9d_eA/view)
+[Assista apresentação em video aqui](https://drive.google.com/file/d/1Hmwm7GxijU2mjpUY_pd7H7H1awA9d_eA/view)
 
 ## **O que é uma VPN**
 
