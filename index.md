@@ -6,6 +6,8 @@ layout: default
   <source src="https://drive.google.com/file/d/1Hmwm7GxijU2mjpUY_pd7H7H1awA9d_eA/view" type="video/mp4">
 </video>
 
+![Assista apresentação em video aqui](https://drive.google.com/file/d/1Hmwm7GxijU2mjpUY_pd7H7H1awA9d_eA/view)
+
 ## **O que é uma VPN**
 
 Uma VPN, ou Rede Privada Virtual, é uma tecnologia que cria uma conexão segura e criptografada entre o seu dispositivo e a internet. Basicamente, ela permite que você navegue de forma anônima, escondendo seu endereço IP e local real. Como definido pela VPN Mentor, "uma VPN permite que você acesse a internet como se estivesse em outro lugar, protegendo sua privacidade e dados pessoais".
