@@ -2,11 +2,7 @@
 layout: default
 ---
 
-<video width="320" height="240" controls>
-  <source src="https://www.youtube.com/watch?v=HyEQ_9v-VsA" type="video/webm">
-</video>
-
-[Assista apresentação em video aqui](https://www.youtube.com/watch?v=HyEQ_9v-VsA)
+[![Workshop Cibersegurança - VPN](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHyEQ_9v-VsA)](https://www.youtube.com/watch?v=HyEQ_9v-VsA)
 
 ## **O que é uma VPN**
 
